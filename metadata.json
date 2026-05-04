@@ -1,0 +1,6 @@
+{
+  "name": "Guardia AI Scam Detector",
+  "description": "An advanced AI-powered scam and fraud detection assistant specialized in identifying phishing, UPI fraud, and social engineering in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Analysis", "Fraud Detection"]
+}
